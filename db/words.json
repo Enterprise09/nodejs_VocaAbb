@@ -1,0 +1,54 @@
+[
+    {
+        "word": "Eat",
+        "definition": [
+            "먹다",
+            "식사를 하다"
+        ],
+        "examples": [
+            {
+                "sentence": "I eat an apple.",
+                "definition": "저는 사과를 먹습니다."
+            },
+            {
+                "sentence": "I can't eat that.",
+                "definition": "나는 저것을 먹을 수 없다."
+            }
+        ]
+    },
+    {
+        "word": "Learn",
+        "definition": [
+            "배우다",
+            "학습하다"
+        ],
+        "examples": [
+            {
+                "sentence": "I was learn math.",
+                "definition": "저는 수학을 배웠습니다."
+            },
+            {
+                "sentence": "I can't learn this.",
+                "definition": "나는 이것을 배울 수 없다."
+            }
+        ]
+    },
+    {
+        "word": "Run",
+        "definition": [
+            "달리다",
+            "가다",
+            "떠나다"
+        ],
+        "examples": [
+            {
+                "sentence": "I run.",
+                "definition": "저는 뜁니다."
+            },
+            {
+                "sentence": "I can't run.",
+                "definition": "나는 뛸 수 없다."
+            }
+        ]
+    }
+]
